@@ -12,6 +12,10 @@ public class Calculadora {
 		System.out.println(calc.soma(2, 3) == 5);
 		System.out.println(calc.soma(3, 4) == 7);
 		System.out.println(calc.soma(5, 6) == 11);
+		System.out.println(calc.soma(5, 6) == 11);
+		System.out.println(calc.soma(5, 6) == 11);
+		
+	
 	}
 	
 }
